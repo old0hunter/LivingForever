@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signArrow_left",
+    "texture": "dbc15ee1-07fa-4b66-b105-b44a5b2423c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      55
+    ]
+  }
+}

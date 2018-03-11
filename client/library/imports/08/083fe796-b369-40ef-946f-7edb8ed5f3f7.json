@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spikesLow",
+    "texture": "40f49e59-21a5-4d9f-ba44-f16a5ef6e398",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      26
+    ]
+  }
+}

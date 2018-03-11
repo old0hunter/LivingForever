@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signLarge",
+    "texture": "f0bf9712-9a27-4705-acd6-db33b4d98987",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      55
+    ]
+  }
+}

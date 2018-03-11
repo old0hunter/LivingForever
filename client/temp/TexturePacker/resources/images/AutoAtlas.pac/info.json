@@ -1,0 +1,10 @@
+{
+  "packedTextures": [
+    {
+      "path": "D:\\code\\cocoscreator\\LivingForever\\client\\temp\\TexturePacker\\resources\\images\\AutoAtlas.pac/AutoAtlas-1.png",
+      "name": "AutoAtlas-1.png",
+      "size": "256x256"
+    }
+  ],
+  "unpackedTextures": []
+}

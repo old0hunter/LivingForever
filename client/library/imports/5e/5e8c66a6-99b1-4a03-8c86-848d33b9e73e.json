@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signpost",
+    "texture": "efe5c7fd-8017-4ca4-a57f-ecf822c45830",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      12,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      12,
+      55
+    ]
+  }
+}

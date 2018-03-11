@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8a2bcf2f-388b-45f6-a033-986259a5e3cc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "plantLeaves_1": {
+      "ver": "1.0.3",
+      "uuid": "7d049276-0850-417d-b2df-fd14342b6a24",
+      "rawTextureUuid": "8a2bcf2f-388b-45f6-a033-986259a5e3cc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 38,
+      "height": 64,
+      "rawWidth": 38,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

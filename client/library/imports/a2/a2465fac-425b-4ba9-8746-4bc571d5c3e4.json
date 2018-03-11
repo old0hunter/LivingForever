@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantBottom_1",
+    "texture": "79cef65f-a8c9-451c-beed-a244538412d4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      64
+    ]
+  }
+}

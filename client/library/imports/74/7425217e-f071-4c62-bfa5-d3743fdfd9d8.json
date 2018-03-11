@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ladderWide_top",
+    "texture": "409b3fb4-899a-4818-aad9-75c6cbb33fcd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      48
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantTop_leaves",
+    "texture": "b4694698-bcc4-4859-bdb5-676140bb31ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      31
+    ]
+  }
+}

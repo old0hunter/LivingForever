@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fenceMid",
+    "texture": "7fc94e18-5fcd-4a5f-adb2-99cca12be6e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      45
+    ]
+  }
+}

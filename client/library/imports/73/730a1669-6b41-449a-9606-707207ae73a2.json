@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flagRed_down",
+    "texture": "666dc011-2794-4b67-9dc7-73e6b04c060e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      15,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      15,
+      61
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantStem_horizontal",
+    "texture": "8fd51d7c-f846-4663-b894-5bf35e136072",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      10
+    ]
+  }
+}

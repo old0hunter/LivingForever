@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonFloor_pressed",
+    "texture": "a3d01daf-8cdf-43d4-9757-a89e19339caf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      8
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      8
+    ]
+  }
+}

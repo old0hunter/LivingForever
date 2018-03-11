@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vine_bottom",
+    "texture": "e258ab9d-6940-462a-9ea3-558712535dc5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      38
+    ]
+  }
+}

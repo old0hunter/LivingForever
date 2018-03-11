@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantBlue_4",
+    "texture": "06366a17-5445-4bdb-b8a2-55ba9354ec7b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      29,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      29,
+      55
+    ]
+  }
+}

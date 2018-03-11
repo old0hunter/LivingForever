@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantLeaves_3",
+    "texture": "e30328f9-55b1-4f84-b2a5-b5bc0ad26ac1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      64
+    ]
+  }
+}

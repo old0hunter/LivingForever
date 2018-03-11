@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantThorns_vertical",
+    "texture": "a888e637-6e57-4ee8-99f9-2e614f8fa8a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      64
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantDark_6",
+    "texture": "fe44cb65-8280-4959-adf7-52056547a5e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      27,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      27,
+      38
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantStem_Tright",
+    "texture": "b51ef948-d122-4f53-8d89-1818c2e89b6a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      64
+    ]
+  }
+}

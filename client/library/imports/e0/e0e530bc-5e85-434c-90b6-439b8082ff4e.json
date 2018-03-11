@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantStem_Tleft",
+    "texture": "a49063e8-8e2d-4993-a722-4125af156e45",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      64
+    ]
+  }
+}

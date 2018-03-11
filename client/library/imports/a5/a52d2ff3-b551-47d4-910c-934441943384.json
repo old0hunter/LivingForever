@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plantTop_yellow",
+    "texture": "cdfa01fb-ae4f-43dd-9f03-44b264521d75",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      54
+    ]
+  }
+}
