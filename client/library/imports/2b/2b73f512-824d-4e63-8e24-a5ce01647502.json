@@ -1091,7 +1091,6 @@
     "hp": 0,
     "isAttack": false,
     "isObstacle": false,
-    "state": 0,
-    "type": "item_base"
+    "state": 0
   }
 ]

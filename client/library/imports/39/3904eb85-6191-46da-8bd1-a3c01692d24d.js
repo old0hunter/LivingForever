@@ -40,7 +40,7 @@ cc.Class({
     // onLoad () {},
 
     start: function start() {},
-    collide: function collide(target) {
+    onCollide: function onCollide(target) {
         if (itemState.none) {
             return;
         } else if (itemState.breakdown) {

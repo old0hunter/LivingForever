@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'f640bJK9bBIhYjuVi6sVxS8', 'ItemBase');
-// scripts/item/ItemBase.js
+// scripts/Item/ItemBase.js
 
 "use strict";
 
