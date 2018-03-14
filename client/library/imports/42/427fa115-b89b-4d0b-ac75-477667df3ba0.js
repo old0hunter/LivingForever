@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '427faEVuJtNC6x1R3Zn3zug', 'SwitchMapElement');
-// scripts/MapElement/SwitchMapElement.js
+// scripts/battle/MapElement/SwitchMapElement.js
 
 "use strict";
 

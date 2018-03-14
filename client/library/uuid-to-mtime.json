@@ -225,7 +225,7 @@
     "relativePath": "prefab/webview.prefab"
   },
   "0994bcff-cbf8-4b6c-9e9c-eb697434acba": {
-    "asset": 1520859156917,
+    "asset": 1520999392156,
     "meta": 1520859156916,
     "relativePath": "resources"
   },
@@ -250,12 +250,12 @@
     "relativePath": "scene"
   },
   "2b73f512-824d-4e63-8e24-a5ce01647502": {
-    "asset": 1520863756362,
-    "meta": 1520863756366,
+    "asset": 1521001365725,
+    "meta": 1521001365745,
     "relativePath": "scene/Joystick.fire"
   },
   "d2614c06-b768-4d8d-9b4e-1599827afe85": {
-    "asset": 1520861272066,
+    "asset": 1520951986163,
     "meta": 1520859156982,
     "relativePath": "scripts"
   },
@@ -969,70 +969,15 @@
     "meta": 1520859156983,
     "relativePath": "scripts/Item"
   },
-  "996cd8d5-7b0e-4f70-bf84-26f506012d70": {
-    "asset": 1520859156987,
-    "meta": 1520859156985,
-    "relativePath": "scripts/battle/MapElement"
-  },
   "f640b24a-f5b0-4885-88ee-562eac5714bc": {
     "asset": 1520859156983,
     "meta": 1520859242618,
     "relativePath": "scripts/Item/ItemBase.js"
   },
-  "427fa115-b89b-4d0b-ac75-477667df3ba0": {
-    "asset": 1520859156987,
-    "meta": 1520859242700,
-    "relativePath": "scripts/battle/MapElement/SwitchMapElement.js"
-  },
-  "60efb0f0-a717-43ea-a79a-2d97dabf7ac7": {
-    "asset": 1520859156987,
-    "meta": 1520859242705,
-    "relativePath": "scripts/battle/MapElement/WalkMapElement.js"
-  },
-  "e9685bef-8143-49f7-b87d-8f84f6914fd6": {
-    "asset": 1520859156986,
-    "meta": 1520859242688,
-    "relativePath": "scripts/battle/MapElement/FloorMapElement.js"
-  },
-  "98cc9b1d-9ea7-4933-a84f-044f71f26a66": {
-    "asset": 1520859156986,
-    "meta": 1520859242696,
-    "relativePath": "scripts/battle/MapElement/PlantMapElement.js"
-  },
-  "b4245f9d-8481-4727-91d1-a901314279c6": {
-    "asset": 1520859156988,
-    "meta": 1520859156987,
-    "relativePath": "scripts/battle/SelectComponentBase"
-  },
-  "7711f18b-437a-46db-a378-58980b7f511f": {
-    "asset": 1520859156988,
-    "meta": 1520859242707,
-    "relativePath": "scripts/battle/SelectComponentBase/SelectComponentBase.js"
-  },
-  "3904eb85-6191-46da-8bd1-a3c01692d24d": {
-    "asset": 1520859383000,
-    "meta": 1520859384451,
-    "relativePath": "scripts/battle/MapElement/MapElementBase.js"
-  },
   "7397bc3f-a3c4-4e32-9373-4ed19770bb6a": {
-    "asset": 1520859664000,
+    "asset": 1520914715074,
     "meta": 1520859390359,
     "relativePath": "scripts/Mgr"
-  },
-  "f43288a4-9b56-4ea4-afde-e265cbadb582": {
-    "asset": 1520859414727,
-    "meta": 1520859419608,
-    "relativePath": "scripts/Mgr/BufferMgr.js"
-  },
-  "1752dce3-e299-4bc3-b412-01758150b84d": {
-    "asset": 1520859468101,
-    "meta": 1520859452239,
-    "relativePath": "scripts/battle/Buffer"
-  },
-  "857e7ce5-ebf3-463f-9c92-c9fae4faafd9": {
-    "asset": 1520859459328,
-    "meta": 1520859468109,
-    "relativePath": "scripts/battle/Buffer/BufferBase.js"
   },
   "03bd22b2-f3f3-4763-b4e2-2b2f733357cd": {
     "asset": 1520861289803,
@@ -1045,28 +990,108 @@
     "relativePath": "scripts/3rd/onfire.js"
   },
   "3a1e051b-2a49-4bbd-9f2c-c77b12c9cf76": {
-    "asset": 1520864375981,
+    "asset": 1520946607790,
     "meta": 1520864375982,
     "relativePath": "scripts/battle"
   },
-  "b422edfb-0f67-411e-988d-0a9c1395f7a1": {
-    "asset": 1520864501000,
-    "meta": 1520864504204,
-    "relativePath": "scripts/Mgr/MessageMgr.js"
-  },
-  "3334baad-075a-420e-a90b-daa56235f036": {
-    "asset": 1520864519000,
-    "meta": 1520864520561,
-    "relativePath": "scripts/Mgr/MapMgr.js"
-  },
   "830cb40d-3d14-4602-8ef1-c32bd7c1528d": {
-    "asset": 1520864527802,
+    "asset": 1520999392156,
     "meta": 1520864527803,
     "relativePath": "scripts/Net"
   },
+  "8fe06c8c-d9b5-415f-afc1-918ac0fc6e34": {
+    "asset": 1520911964454,
+    "meta": 1520911937038,
+    "relativePath": "scripts/Logic"
+  },
+  "1752dce3-e299-4bc3-b412-01758150b84d": {
+    "asset": 1520914747881,
+    "meta": 1520946607781,
+    "relativePath": "scripts/battle/Buffer"
+  },
+  "996cd8d5-7b0e-4f70-bf84-26f506012d70": {
+    "asset": 1520859156987,
+    "meta": 1520946607784,
+    "relativePath": "scripts/battle/MapElement"
+  },
+  "857e7ce5-ebf3-463f-9c92-c9fae4faafd9": {
+    "asset": 1520859459328,
+    "meta": 1520946607865,
+    "relativePath": "scripts/battle/Buffer/BufferBase.js"
+  },
+  "e9685bef-8143-49f7-b87d-8f84f6914fd6": {
+    "asset": 1520859156986,
+    "meta": 1520946607898,
+    "relativePath": "scripts/battle/MapElement/FloorMapElement.js"
+  },
+  "3904eb85-6191-46da-8bd1-a3c01692d24d": {
+    "asset": 1520859383000,
+    "meta": 1520946607904,
+    "relativePath": "scripts/battle/MapElement/MapElementBase.js"
+  },
+  "98cc9b1d-9ea7-4933-a84f-044f71f26a66": {
+    "asset": 1520859156986,
+    "meta": 1520946607916,
+    "relativePath": "scripts/battle/MapElement/PlantMapElement.js"
+  },
+  "427fa115-b89b-4d0b-ac75-477667df3ba0": {
+    "asset": 1520859156987,
+    "meta": 1520946607922,
+    "relativePath": "scripts/battle/MapElement/SwitchMapElement.js"
+  },
+  "b4245f9d-8481-4727-91d1-a901314279c6": {
+    "asset": 1520859156988,
+    "meta": 1520946607786,
+    "relativePath": "scripts/battle/SelectComponentBase"
+  },
+  "60efb0f0-a717-43ea-a79a-2d97dabf7ac7": {
+    "asset": 1520859156987,
+    "meta": 1520946607936,
+    "relativePath": "scripts/battle/MapElement/WalkMapElement.js"
+  },
+  "7711f18b-437a-46db-a378-58980b7f511f": {
+    "asset": 1520859156988,
+    "meta": 1520946607946,
+    "relativePath": "scripts/battle/SelectComponentBase/SelectComponentBase.js"
+  },
+  "b422edfb-0f67-411e-988d-0a9c1395f7a1": {
+    "asset": 1520946549000,
+    "meta": 1520946608013,
+    "relativePath": "scripts/Mgr/MessageMgr.js"
+  },
   "113b08ae-e8b6-4efe-be02-fb8b9da7e531": {
-    "asset": 1520864618942,
-    "meta": 1520864619534,
+    "asset": 1520914274000,
+    "meta": 1520946608015,
     "relativePath": "scripts/Net/NetMgr.js"
+  },
+  "ce3b7685-5b31-4594-bff8-ff94df3263c4": {
+    "asset": 1520914747881,
+    "meta": 1520946607790,
+    "relativePath": "scripts/battle/Mgr"
+  },
+  "f43288a4-9b56-4ea4-afde-e265cbadb582": {
+    "asset": 1520914747882,
+    "meta": 1520946608035,
+    "relativePath": "scripts/battle/Mgr/BufferMgr.js"
+  },
+  "3334baad-075a-420e-a90b-daa56235f036": {
+    "asset": 1520914742353,
+    "meta": 1520946608036,
+    "relativePath": "scripts/battle/Mgr/MapMgr.js"
+  },
+  "74b3c75e-6359-4a3e-9691-90115314dc99": {
+    "asset": 1520997008383,
+    "meta": 1520999111821,
+    "relativePath": "resources/ProtoBuf"
+  },
+  "ab10d00a-c05e-4620-b347-69382cc255f9": {
+    "asset": 1520997014097,
+    "meta": 1520997008383,
+    "relativePath": "resources/ProtoBuf/test.proto"
+  },
+  "a6ba8240-0d43-42c1-8f06-21208c55c41b": {
+    "asset": 1521001390778,
+    "meta": 1521001391401,
+    "relativePath": "scripts/Logic/GameLogic.js"
   }
 }

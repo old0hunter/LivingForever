@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '7711fGLQ3pG26N4WJgLf1Ef', 'SelectComponentBase');
-// scripts/SelectComponent/SelectComponentBase.js
+// scripts/battle/SelectComponentBase/SelectComponentBase.js
 
 "use strict";
 

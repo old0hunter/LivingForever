@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '98cc9sdnqdJM6hPBE9x8mpm', 'PlantMapElement');
-// scripts/MapElement/PlantMapElement.js
+// scripts/battle/MapElement/PlantMapElement.js
 
 "use strict";
 

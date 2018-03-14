@@ -1,6 +1,6 @@
 (function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/scripts/battle/MapElement/MapElementBase.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
 cc._RF.push(module, '3904euFYZFG2ovRo8AWktJN', 'MapElementBase', __filename);
-// scripts/MapElement/MapElementBase.js
+// scripts/battle/MapElement/MapElementBase.js
 
 "use strict";
 

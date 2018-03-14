@@ -1,91 +1,52 @@
-2018-03-12T14:18:03.397Z - normal: Load ~/.CocosCreator/settings.json
-2018-03-12T14:18:03.401Z - normal: checking language setting...
-2018-03-12T14:18:03.401Z - normal: Language: zh
-2018-03-12T14:18:03.982Z - success: protocol editor-framework registered
-2018-03-12T14:18:03.982Z - success: protocol app registered
-2018-03-12T14:18:03.982Z - success: protocol theme registered
-2018-03-12T14:18:03.983Z - success: protocol packages registered
-2018-03-12T14:18:03.983Z - success: protocol unpack registerred
-2018-03-12T14:18:03.983Z - success: protocol disable-commonjs registerred
-2018-03-12T14:18:04.294Z - normal: connected!
-2018-03-12T14:18:04.297Z - normal: Check project /Users/xukala/Documents/code/cocos_creator/LivingForever/client
-2018-03-12T14:18:04.298Z - normal: Initializing Cocos2d
-2018-03-12T14:18:04.478Z - normal: Initializing Asset Database
-2018-03-12T14:18:04.508Z - success: protocol uuid registerred
-2018-03-12T14:18:04.508Z - success: protocol db registerred
-2018-03-12T14:18:04.508Z - success: protocol thumbnail registerred
-2018-03-12T14:18:04.509Z - normal: Loading editor/builtin packages
-2018-03-12T14:18:04.528Z - success: anysdk loaded
-2018-03-12T14:18:04.625Z - success: assets loaded
-2018-03-12T14:18:04.628Z - success: builder loaded
-2018-03-12T14:18:04.630Z - success: cocos-analytics loaded
-2018-03-12T14:18:04.634Z - success: console loaded
-2018-03-12T14:18:04.638Z - success: hierarchy loaded
-2018-03-12T14:18:04.643Z - success: inspector loaded
-2018-03-12T14:18:04.644Z - success: keystore loaded
-2018-03-12T14:18:04.648Z - success: node-library loaded
-2018-03-12T14:18:04.650Z - success: package-asset loaded
-2018-03-12T14:18:04.652Z - success: preferences loaded
-2018-03-12T14:18:04.655Z - success: project-exporter loaded
-2018-03-12T14:18:04.672Z - success: project-importer loaded
-2018-03-12T14:18:04.675Z - success: project-settings loaded
-2018-03-12T14:18:04.679Z - success: ui-kit loaded
-2018-03-12T14:18:04.684Z - success: ui-grid loaded
-2018-03-12T14:18:04.688Z - success: scene loaded
-2018-03-12T14:18:04.689Z - success: sprite-editor loaded
-2018-03-12T14:18:04.694Z - success: store loaded
-2018-03-12T14:18:04.699Z - success: timeline loaded
-2018-03-12T14:18:04.700Z - normal: Loading builtin packages
-2018-03-12T14:18:04.703Z - success: asset-db-debugger loaded
-2018-03-12T14:18:04.704Z - success: color-picker loaded
-2018-03-12T14:18:04.708Z - success: package-manager loaded
-2018-03-12T14:18:04.719Z - success: sdkbox loaded
-2018-03-12T14:18:04.723Z - success: tester loaded
-2018-03-12T14:18:04.731Z - success: ui-kit-preview-extra loaded
-2018-03-12T14:18:04.734Z - success: ui-kit-preview loaded
-2018-03-12T14:18:04.738Z - success: ui-tree loaded
-2018-03-12T14:18:05.611Z - normal: Initializing project /Users/xukala/Documents/code/cocos_creator/LivingForever/client
-2018-03-12T14:18:05.612Z - normal: Loading packages
-2018-03-12T14:18:05.617Z - normal: Watching packages
-2018-03-12T14:18:05.631Z - normal: Run Application
-2018-03-12T14:18:06.137Z - failed: [db-task][init] Failed to import asset /Users/xukala/Documents/code/cocos_creator/LivingForever/client/assets/scripts/Mgr/MessageMgr.js, message: Compile error: SyntaxError: /Users/xukala/Documents/code/cocos_creator/LivingForever/client/assets/scripts/Mgr/MessageMgr.js: Unexpected token (7:0)
-   5 | },
-   6 | 
->  7 | var unregister = function (event) {
-     | ^
-   8 |     onfire.un(event);
-   9 | },
-  10 | 
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
-    at Parser.pp$2.parseBindingAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3090:12)
-    at Parser.pp$1.parseVarHead (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2355:18)
-    at Parser.pp$1.parseVar (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2338:10)
-    at Parser.pp$1.parseVarStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2169:8)
-    at Parser.pp$1.parseStatement (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1861:19)
-    at Parser.pp$1.parseBlockBody (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2268:21)
-    at Parser.pp$1.parseTopLevel (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1778:8)
-    at Parser.parse (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1673:17)
-2018-03-12T14:18:06.368Z - success: preview server running at http://localhost:7456
-2018-03-12T14:18:10.905Z - normal: 1.8.1
-2018-03-12T14:19:50.060Z - error: [db-task][sync-changes] Failed to delete asset /Users/xukala/Documents/code/cocos_creator/LivingForever/client/assets/scripts/New Folder
-    at s.AssetDB.error (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/utils.js:1:2578)
-    at Tasks.clearImports (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:442)
-    at Object.Tasks.clearImports (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:22895)
-    at e (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:398)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:181:20
-    at iterate (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:262:13)
-    at Object.async.forEachOfSeries.async.eachOfSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:281:9)
-    at Object.async.forEachSeries.async.eachSeries (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:214:22)
-    at Async.series.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/core/watch.js:1:1046)
-2018-03-12T14:23:39.868Z - failed: load script [/Users/xukala/Documents/code/cocos_creator/LivingForever/client/temp/quick-scripts/assets/scripts/Net/NetMgr.js] failed : ReferenceError: ws is not defined
-    at __define (/Users/xukala/Documents/code/cocos_creator/LivingForever/client/temp/quick-scripts/assets/scripts/Net/NetMgr.js:7:4)
-    at /Users/xukala/Documents/code/cocos_creator/LivingForever/client/temp/quick-scripts/assets/scripts/Net/NetMgr.js:24:13
-    at Object.<anonymous> (/Users/xukala/Documents/code/cocos_creator/LivingForever/client/temp/quick-scripts/assets/scripts/Net/NetMgr.js:31:11)
-    at Object.<anonymous> (/Users/xukala/Documents/code/cocos_creator/LivingForever/client/temp/quick-scripts/assets/scripts/Net/NetMgr.js:34:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
+2018-03-14T04:15:25.427Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-14T04:15:25.431Z - normal: checking language setting...
+2018-03-14T04:15:25.431Z - normal: Language: zh
+2018-03-14T04:15:26.127Z - success: protocol editor-framework registered
+2018-03-14T04:15:26.128Z - success: protocol app registered
+2018-03-14T04:15:26.128Z - success: protocol theme registered
+2018-03-14T04:15:26.128Z - success: protocol packages registered
+2018-03-14T04:15:26.128Z - success: protocol unpack registerred
+2018-03-14T04:15:26.128Z - success: protocol disable-commonjs registerred
+2018-03-14T04:15:26.446Z - normal: connected!
+2018-03-14T04:15:26.450Z - normal: Check project /Users/xukala/Documents/code/cocos_creator/LivingForever/client
+2018-03-14T04:15:26.451Z - normal: Initializing Cocos2d
+2018-03-14T04:15:26.606Z - normal: Initializing Asset Database
+2018-03-14T04:15:26.632Z - success: protocol uuid registerred
+2018-03-14T04:15:26.633Z - success: protocol db registerred
+2018-03-14T04:15:26.633Z - success: protocol thumbnail registerred
+2018-03-14T04:15:26.633Z - normal: Loading editor/builtin packages
+2018-03-14T04:15:26.650Z - success: anysdk loaded
+2018-03-14T04:15:26.757Z - success: assets loaded
+2018-03-14T04:15:26.760Z - success: builder loaded
+2018-03-14T04:15:26.763Z - success: cocos-analytics loaded
+2018-03-14T04:15:26.766Z - success: console loaded
+2018-03-14T04:15:26.770Z - success: hierarchy loaded
+2018-03-14T04:15:26.774Z - success: inspector loaded
+2018-03-14T04:15:26.775Z - success: keystore loaded
+2018-03-14T04:15:26.778Z - success: node-library loaded
+2018-03-14T04:15:26.781Z - success: package-asset loaded
+2018-03-14T04:15:26.782Z - success: preferences loaded
+2018-03-14T04:15:26.785Z - success: project-exporter loaded
+2018-03-14T04:15:26.799Z - success: project-importer loaded
+2018-03-14T04:15:26.802Z - success: project-settings loaded
+2018-03-14T04:15:26.805Z - success: ui-kit loaded
+2018-03-14T04:15:26.809Z - success: ui-grid loaded
+2018-03-14T04:15:26.813Z - success: scene loaded
+2018-03-14T04:15:26.814Z - success: sprite-editor loaded
+2018-03-14T04:15:26.818Z - success: store loaded
+2018-03-14T04:15:26.823Z - success: timeline loaded
+2018-03-14T04:15:26.823Z - normal: Loading builtin packages
+2018-03-14T04:15:26.827Z - success: asset-db-debugger loaded
+2018-03-14T04:15:26.835Z - success: color-picker loaded
+2018-03-14T04:15:26.839Z - success: package-manager loaded
+2018-03-14T04:15:26.843Z - success: sdkbox loaded
+2018-03-14T04:15:26.846Z - success: tester loaded
+2018-03-14T04:15:26.854Z - success: ui-kit-preview-extra loaded
+2018-03-14T04:15:26.858Z - success: ui-kit-preview loaded
+2018-03-14T04:15:26.861Z - success: ui-tree loaded
+2018-03-14T04:15:27.790Z - normal: Initializing project /Users/xukala/Documents/code/cocos_creator/LivingForever/client
+2018-03-14T04:15:27.792Z - normal: Loading packages
+2018-03-14T04:15:27.796Z - normal: Watching packages
+2018-03-14T04:15:27.809Z - normal: Run Application
+2018-03-14T04:15:28.319Z - success: preview server running at http://localhost:7456
+2018-03-14T04:15:32.945Z - normal: 1.8.1

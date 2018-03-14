@@ -1,6 +1,6 @@
 (function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/scripts/battle/SelectComponentBase/SelectComponentBase.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
 cc._RF.push(module, '7711fGLQ3pG26N4WJgLf1Ef', 'SelectComponentBase', __filename);
-// scripts/SelectComponent/SelectComponentBase.js
+// scripts/battle/SelectComponentBase/SelectComponentBase.js
 
 "use strict";
 

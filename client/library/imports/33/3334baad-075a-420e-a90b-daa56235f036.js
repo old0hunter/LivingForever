@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '3334bqtB1pCDqkL2qViNfA2', 'MapMgr');
-// scripts/Mgr/MapMgr.js
+// scripts/battle/Mgr/MapMgr.js
 
 "use strict";
 

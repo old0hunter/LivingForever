@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'f4328ikm1ZOpK/e4mXLrbWC', 'BufferMgr');
-// scripts/Mgr/BufferMgr.js
+// scripts/battle/Mgr/BufferMgr.js
 
 "use strict";
 

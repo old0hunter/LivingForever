@@ -1,6 +1,6 @@
 (function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/scripts/battle/MapElement/SwitchMapElement.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
 cc._RF.push(module, '427faEVuJtNC6x1R3Zn3zug', 'SwitchMapElement', __filename);
-// scripts/MapElement/SwitchMapElement.js
+// scripts/battle/MapElement/SwitchMapElement.js
 
 "use strict";
 

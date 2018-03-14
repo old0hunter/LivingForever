@@ -1,6 +1,6 @@
 (function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/scripts/battle/Buffer/BufferBase.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
 cc._RF.push(module, '857e7zl6/NGP5ySyfrk+q/Z', 'BufferBase', __filename);
-// scripts/Buffer/BufferBase.js
+// scripts/battle/Buffer/BufferBase.js
 
 "use strict";
 

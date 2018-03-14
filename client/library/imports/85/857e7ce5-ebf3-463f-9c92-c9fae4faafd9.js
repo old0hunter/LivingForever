@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '857e7zl6/NGP5ySyfrk+q/Z', 'BufferBase');
-// scripts/Buffer/BufferBase.js
+// scripts/battle/Buffer/BufferBase.js
 
 "use strict";
 

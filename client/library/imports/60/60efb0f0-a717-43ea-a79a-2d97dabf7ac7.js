@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '60efbDwpxdD6qeaLZfav3rH', 'WalkMapElement');
-// scripts/MapElement/WalkMapElement.js
+// scripts/battle/MapElement/WalkMapElement.js
 
 "use strict";
 

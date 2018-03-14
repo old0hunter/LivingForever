@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '3904euFYZFG2ovRo8AWktJN', 'MapElementBase');
-// scripts/MapElement/MapElementBase.js
+// scripts/battle/MapElement/MapElementBase.js
 
 "use strict";
 
