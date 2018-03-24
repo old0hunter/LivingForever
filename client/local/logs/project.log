@@ -1,52 +1,58 @@
-2018-03-14T04:15:25.427Z - normal: Load ~/.CocosCreator/settings.json
-2018-03-14T04:15:25.431Z - normal: checking language setting...
-2018-03-14T04:15:25.431Z - normal: Language: zh
-2018-03-14T04:15:26.127Z - success: protocol editor-framework registered
-2018-03-14T04:15:26.128Z - success: protocol app registered
-2018-03-14T04:15:26.128Z - success: protocol theme registered
-2018-03-14T04:15:26.128Z - success: protocol packages registered
-2018-03-14T04:15:26.128Z - success: protocol unpack registerred
-2018-03-14T04:15:26.128Z - success: protocol disable-commonjs registerred
-2018-03-14T04:15:26.446Z - normal: connected!
-2018-03-14T04:15:26.450Z - normal: Check project /Users/xukala/Documents/code/cocos_creator/LivingForever/client
-2018-03-14T04:15:26.451Z - normal: Initializing Cocos2d
-2018-03-14T04:15:26.606Z - normal: Initializing Asset Database
-2018-03-14T04:15:26.632Z - success: protocol uuid registerred
-2018-03-14T04:15:26.633Z - success: protocol db registerred
-2018-03-14T04:15:26.633Z - success: protocol thumbnail registerred
-2018-03-14T04:15:26.633Z - normal: Loading editor/builtin packages
-2018-03-14T04:15:26.650Z - success: anysdk loaded
-2018-03-14T04:15:26.757Z - success: assets loaded
-2018-03-14T04:15:26.760Z - success: builder loaded
-2018-03-14T04:15:26.763Z - success: cocos-analytics loaded
-2018-03-14T04:15:26.766Z - success: console loaded
-2018-03-14T04:15:26.770Z - success: hierarchy loaded
-2018-03-14T04:15:26.774Z - success: inspector loaded
-2018-03-14T04:15:26.775Z - success: keystore loaded
-2018-03-14T04:15:26.778Z - success: node-library loaded
-2018-03-14T04:15:26.781Z - success: package-asset loaded
-2018-03-14T04:15:26.782Z - success: preferences loaded
-2018-03-14T04:15:26.785Z - success: project-exporter loaded
-2018-03-14T04:15:26.799Z - success: project-importer loaded
-2018-03-14T04:15:26.802Z - success: project-settings loaded
-2018-03-14T04:15:26.805Z - success: ui-kit loaded
-2018-03-14T04:15:26.809Z - success: ui-grid loaded
-2018-03-14T04:15:26.813Z - success: scene loaded
-2018-03-14T04:15:26.814Z - success: sprite-editor loaded
-2018-03-14T04:15:26.818Z - success: store loaded
-2018-03-14T04:15:26.823Z - success: timeline loaded
-2018-03-14T04:15:26.823Z - normal: Loading builtin packages
-2018-03-14T04:15:26.827Z - success: asset-db-debugger loaded
-2018-03-14T04:15:26.835Z - success: color-picker loaded
-2018-03-14T04:15:26.839Z - success: package-manager loaded
-2018-03-14T04:15:26.843Z - success: sdkbox loaded
-2018-03-14T04:15:26.846Z - success: tester loaded
-2018-03-14T04:15:26.854Z - success: ui-kit-preview-extra loaded
-2018-03-14T04:15:26.858Z - success: ui-kit-preview loaded
-2018-03-14T04:15:26.861Z - success: ui-tree loaded
-2018-03-14T04:15:27.790Z - normal: Initializing project /Users/xukala/Documents/code/cocos_creator/LivingForever/client
-2018-03-14T04:15:27.792Z - normal: Loading packages
-2018-03-14T04:15:27.796Z - normal: Watching packages
-2018-03-14T04:15:27.809Z - normal: Run Application
-2018-03-14T04:15:28.319Z - success: preview server running at http://localhost:7456
-2018-03-14T04:15:32.945Z - normal: 1.8.1
+2018-03-24T17:15:34.554Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-24T17:15:34.558Z - normal: checking language setting...
+2018-03-24T17:15:34.558Z - normal: Language: zh
+2018-03-24T17:15:35.355Z - success: protocol editor-framework registered
+2018-03-24T17:15:35.355Z - success: protocol app registered
+2018-03-24T17:15:35.356Z - success: protocol theme registered
+2018-03-24T17:15:35.356Z - success: protocol packages registered
+2018-03-24T17:15:35.356Z - success: protocol unpack registerred
+2018-03-24T17:15:35.356Z - success: protocol disable-commonjs registerred
+2018-03-24T17:15:35.639Z - normal: connected!
+2018-03-24T17:15:35.643Z - normal: Check project /Users/xukala/Documents/code/cocos_creator/LivingForever/client
+2018-03-24T17:15:35.652Z - normal: Initializing Cocos2d
+2018-03-24T17:15:35.878Z - normal: Initializing Asset Database
+2018-03-24T17:15:35.911Z - success: protocol uuid registerred
+2018-03-24T17:15:35.911Z - success: protocol db registerred
+2018-03-24T17:15:35.911Z - success: protocol thumbnail registerred
+2018-03-24T17:15:35.911Z - normal: Loading editor/builtin packages
+2018-03-24T17:15:35.935Z - success: anysdk loaded
+2018-03-24T17:15:36.059Z - success: assets loaded
+2018-03-24T17:15:36.063Z - success: builder loaded
+2018-03-24T17:15:36.066Z - success: cocos-analytics loaded
+2018-03-24T17:15:36.071Z - success: console loaded
+2018-03-24T17:15:36.077Z - success: hierarchy loaded
+2018-03-24T17:15:36.082Z - success: inspector loaded
+2018-03-24T17:15:36.084Z - success: keystore loaded
+2018-03-24T17:15:36.088Z - success: node-library loaded
+2018-03-24T17:15:36.090Z - success: package-asset loaded
+2018-03-24T17:15:36.092Z - success: preferences loaded
+2018-03-24T17:15:36.095Z - success: project-exporter loaded
+2018-03-24T17:15:36.114Z - success: project-importer loaded
+2018-03-24T17:15:36.123Z - success: project-settings loaded
+2018-03-24T17:15:36.128Z - success: ui-kit loaded
+2018-03-24T17:15:36.133Z - success: ui-grid loaded
+2018-03-24T17:15:36.137Z - success: scene loaded
+2018-03-24T17:15:36.138Z - success: sprite-editor loaded
+2018-03-24T17:15:36.146Z - success: store loaded
+2018-03-24T17:15:36.152Z - success: timeline loaded
+2018-03-24T17:15:36.152Z - normal: Loading builtin packages
+2018-03-24T17:15:36.156Z - success: asset-db-debugger loaded
+2018-03-24T17:15:36.157Z - success: color-picker loaded
+2018-03-24T17:15:36.161Z - success: package-manager loaded
+2018-03-24T17:15:36.166Z - success: sdkbox loaded
+2018-03-24T17:15:36.170Z - success: tester loaded
+2018-03-24T17:15:36.175Z - success: ui-kit-preview-extra loaded
+2018-03-24T17:15:36.179Z - success: ui-kit-preview loaded
+2018-03-24T17:15:36.182Z - success: ui-tree loaded
+2018-03-24T17:15:37.302Z - normal: Initializing project /Users/xukala/Documents/code/cocos_creator/LivingForever/client
+2018-03-24T17:15:37.308Z - normal: Loading packages
+2018-03-24T17:15:37.312Z - normal: Watching packages
+2018-03-24T17:15:37.325Z - normal: Run Application
+2018-03-24T17:15:38.469Z - success: preview server running at http://localhost:7456
+2018-03-24T17:15:43.748Z - normal: 1.8.2
+2018-03-24T17:15:49.306Z - success: VS Code extension installed to /Users/xukala/.vscode/extensions
+2018-03-24T17:15:54.254Z - success: API data generated and copied to /Users/xukala/Documents/code/cocos_creator/LivingForever/client/creator.d.ts
+2018-03-24T17:19:32.873Z - success: VS Code extension installed to /Users/xukala/.vscode/extensions
+2018-03-24T17:23:50.959Z - success: TypeScript Configuration file has been copied to /Users/xukala/Documents/code/cocos_creator/LivingForever/client/tsconfig.json
+2018-03-24T17:48:57.635Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:39536
+2018-03-24T17:48:57.649Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:39540

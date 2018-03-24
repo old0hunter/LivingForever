@@ -6,6 +6,7 @@ cc._RF.push(module, 'a6ba8JADUNCwY8GISCMVcQb', 'GameLogic');
 
 var messageMgr = require("../Mgr/MessageMgr");
 var protobuf = require("protobufjs");
+//protobuf.util.fetch = cc.loader.load.bind(cc.loader);
 
 cc.Class({
     extends: cc.Component,
